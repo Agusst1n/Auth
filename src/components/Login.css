@@ -1,0 +1,19 @@
+.form-container{
+    height: 350px;
+    width: 300px;
+    background-color: rgba(137, 43, 226, 0.618);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+input{
+    outline: none;
+    font-size: 1rem;
+}
